@@ -1,0 +1,52 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".YourLocation"
+    android:background="#ffffff">
+
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.uberclone.YourLocation" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Request Uber"
+        android:id="@+id/requestUberButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="requestUber" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/infoTextView"
+        android:layout_alignBottom="@+id/requestUberButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="15sp"
+        android:textColor="#0d0d0d"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="20dp"
+        android:textIsSelectable="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:id="@+id/logoutButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/requestUberButton"
+        android:layout_alignEnd="@+id/requestUberButton"
+        android:onClick="performLogout" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Vidhyasagar/AndroidStudioProjects/UberClone/ParseStarterProject/src/main/res/layout/activity_your_location.xml -->

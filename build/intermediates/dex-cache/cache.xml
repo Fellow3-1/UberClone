@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-659225a0e5802000659272082dedb64ded6d5046.jar" />
+    </item>
+
+</items>
