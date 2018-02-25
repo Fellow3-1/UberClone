@@ -1,416 +1,342 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-83:12
-	xmlns:android
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+MERGED from [com.android.support:design:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/ed2eab4f8907b0675c0b0750df877943/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/4fc0953dbd65945285fd4a53f6a7ee32/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/fb66cbd2354a2f8aa8d3069bdeed3168/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/bc1e222e60f8521874118ea3bce43ca9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/f781a2f884193d51bdfad38e886a0d8e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/64bf18a76db98f2878099dad4d32e898/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/ce4882ff00c207a4b6448de3ccedf7c9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:16:1-37:12
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/0f6d5af62e0662bc156ebe17d98d2117/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/917307b4c5d54dc4d26a6843e45f99fa/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/b106a0805802882a6415c0a8ebd1def3/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/79c4785c134fad7af5b2511f5991f62a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/18f94e59fb5f2c65c848d7ed7d6836d5/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f2e85f51c0b6bf2cbd17303dfdd7a78/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
 	package
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-34
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:10:5-34
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:19:5-67
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:20:5-79
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:20:22-76
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:20:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:21:5-81
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:21:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:21:22-78
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:21:22-78
 application
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:24:5-81:19
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:24:5-35:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:24:5-81:19
+MERGED from [com.android.support:design:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/ed2eab4f8907b0675c0b0750df877943/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/ed2eab4f8907b0675c0b0750df877943/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/4fc0953dbd65945285fd4a53f6a7ee32/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/4fc0953dbd65945285fd4a53f6a7ee32/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/fb66cbd2354a2f8aa8d3069bdeed3168/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/fb66cbd2354a2f8aa8d3069bdeed3168/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/bc1e222e60f8521874118ea3bce43ca9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/bc1e222e60f8521874118ea3bce43ca9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/f781a2f884193d51bdfad38e886a0d8e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/f781a2f884193d51bdfad38e886a0d8e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/64bf18a76db98f2878099dad4d32e898/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/64bf18a76db98f2878099dad4d32e898/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/ce4882ff00c207a4b6448de3ccedf7c9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/ce4882ff00c207a4b6448de3ccedf7c9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/0f6d5af62e0662bc156ebe17d98d2117/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/0f6d5af62e0662bc156ebe17d98d2117/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/917307b4c5d54dc4d26a6843e45f99fa/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/917307b4c5d54dc4d26a6843e45f99fa/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/b106a0805802882a6415c0a8ebd1def3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/b106a0805802882a6415c0a8ebd1def3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/79c4785c134fad7af5b2511f5991f62a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/79c4785c134fad7af5b2511f5991f62a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/18f94e59fb5f2c65c848d7ed7d6836d5/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/18f94e59fb5f2c65c848d7ed7d6836d5/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f2e85f51c0b6bf2cbd17303dfdd7a78/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f2e85f51c0b6bf2cbd17303dfdd7a78/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:28:9-41
-	android:allowBackup
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:26:9-35
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:28:9-41
 	android:icon
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:27:9-43
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:26:9-35
 	android:theme
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:29:9-40
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:29:9-40
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:25:9-43
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:25:9-43
 meta-data#com.parse.APPLICATION_ID
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:30:9-32:52
-	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:31:13-52
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:30:9-32:52
 	android:value
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:32:13-49
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:31:13-52
 meta-data#com.parse.CLIENT_KEY
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:33:9-35:56
-	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:34:13-48
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:33:9-35:56
 	android:value
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:35:13-53
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:34:13-48
 activity#com.parse.uberclone.MainActivity
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:37:9-46:20
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:37:9-46:20
 	android:label
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:39:13-45
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:39:13-45
 	android:theme
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:40:13-56
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:38:13-41
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:38:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:41:13-45:29
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:41:13-45:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:42:17-69
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:42:25-66
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:44:17-77
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:44:27-74
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:44:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:55:9-57:55
-	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:56:13-58
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:55:9-57:55
 	android:value
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:57:13-52
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:57:13-52
+	android:name
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:56:13-58
 activity#com.parse.uberclone.YourLocation
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:59:9-61:68
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:59:9-61:68
 	android:label
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:61:13-65
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:61:13-65
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:60:13-41
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:60:13-41
 activity#com.parse.uberclone.DriverOrRider
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:62:9-65:47
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:62:9-65:47
 	android:label
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:64:13-67
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:64:13-67
 	android:theme
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:65:13-44
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:65:13-44
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:63:13-42
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:63:13-42
 activity#com.parse.uberclone.ViewRequests
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:66:9-71:20
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:66:9-71:20
 	android:label
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:68:13-65
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:68:13-65
 	android:theme
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:69:13-44
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:69:13-44
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:67:13-41
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:67:13-41
 activity#com.parse.uberclone.ViewRiderLocation
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:72:9-80:20
-	android:label
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:74:13-71
-	android:theme
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:75:13-44
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:72:9-80:20
 	android:parentActivityName
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:76:13-55
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:76:13-55
+	android:label
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:74:13-71
+	android:theme
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:75:13-44
 	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:73:13-46
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:73:13-46
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:77:13-79:68
-	android:name
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:78:17-63
+ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:77:13-79:68
 	android:value
-		ADDED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:79:17-65
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:79:17-65
+	android:name
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:78:17-63
 uses-sdk
-INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/ed2eab4f8907b0675c0b0750df877943/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/ed2eab4f8907b0675c0b0750df877943/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/4fc0953dbd65945285fd4a53f6a7ee32/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/4fc0953dbd65945285fd4a53f6a7ee32/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/eee9076261e0ad192d24f617830c1e60/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/fb66cbd2354a2f8aa8d3069bdeed3168/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/fb66cbd2354a2f8aa8d3069bdeed3168/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/bc1e222e60f8521874118ea3bce43ca9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/bc1e222e60f8521874118ea3bce43ca9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/f781a2f884193d51bdfad38e886a0d8e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/f781a2f884193d51bdfad38e886a0d8e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/64bf18a76db98f2878099dad4d32e898/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/64bf18a76db98f2878099dad4d32e898/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/ce4882ff00c207a4b6448de3ccedf7c9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/ce4882ff00c207a4b6448de3ccedf7c9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/0f6d5af62e0662bc156ebe17d98d2117/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/0f6d5af62e0662bc156ebe17d98d2117/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/438a10aeb21a028b50262f01b7a0912f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/917307b4c5d54dc4d26a6843e45f99fa/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/917307b4c5d54dc4d26a6843e45f99fa/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/b106a0805802882a6415c0a8ebd1def3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/b106a0805802882a6415c0a8ebd1def3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/79c4785c134fad7af5b2511f5991f62a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/79c4785c134fad7af5b2511f5991f62a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/18f94e59fb5f2c65c848d7ed7d6836d5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/18f94e59fb5f2c65c848d7ed7d6836d5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f2e85f51c0b6bf2cbd17303dfdd7a78/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/moe/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f2e85f51c0b6bf2cbd17303dfdd7a78/AndroidManifest.xml:20:5-43
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:26:9-29:64
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:28:13-122
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:28:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:29:13-61
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:29:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:27:13-65
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:27:13-65
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:9-31:52
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:30:9-31:52
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:31:13-50
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:31:13-50
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:19-91
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:22:13-58
-	android:value
-		ADDED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:23:13-66
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:22-78
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:26:8-31
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:25:8-40
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-83:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.5.0.aar/a0f82858aa08483aa618eff67589c19a/AndroidManifest.xml:30:19-91
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:5-70
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:21:5-70
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:22-68
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:21:22-68
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:5-73
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:22:5-73
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:22-71
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:22:22-71
 meta-data#com.google.android.gms.wallet.api.enabled
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:25:9-27:36
-	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:25:9-27:36
 	android:value
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:27:13-33
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:26:13-69
 receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:28:9-34:20
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:28:9-34:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:30:13-37
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:29:13-90
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:29:13-90
 intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:31:13-33:29
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:31:13-33:29
 action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:17-99
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:32:17-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Vidhyasagar\AndroidStudioProjects\UberClone\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:25-96
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/AndroidManifest.xml:32:25-96
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/905c319fd9680b5dc76b935729842529/AndroidManifest.xml:26:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/moe/StudioProjects/Onagi/ParseStarterProject/src/main/AndroidManifest.xml:9:1-83:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/AndroidManifest.xml:22:13-58

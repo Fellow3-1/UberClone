@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/values-sw600dp/values-sw600dp.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,11,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,364,434,504,583,899,1198,1269,1337",
+                        "endColumns": "68,69,69,78,75,58,70,67,54",
+                        "endOffsets": "359,429,499,578,654,953,1264,1332,1387"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,264,343,419,478,549,1122",
+                        "endColumns": "68,69,69,78,75,58,70,67,54",
+                        "endOffsets": "119,189,259,338,414,473,544,612,1172"
+                    }
+                },
+                {
+                    "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/values-sw600dp-v13/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "282",
+                        "endColumns": "72",
+                        "endOffsets": "350"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "617",
+                        "endColumns": "72",
+                        "endOffsets": "685"
+                    }
+                },
+                {
+                    "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/values-sw600dp/values-sw600dp.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,13,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "289,352,416,481,532,583,675,955,1245",
+                        "endLines": "4,5,6,7,8,9,10,13,19",
+                        "endColumns": "62,63,64,50,50,91,45,55,12",
+                        "endOffsets": "347,411,476,527,578,670,716,1006,1422"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "690,753,817,882,933,984,1076,1177,1233",
+                        "endLines": "11,12,13,14,15,16,17,19,23",
+                        "endColumns": "62,63,64,50,50,91,45,55,12",
+                        "endOffsets": "748,812,877,928,979,1071,1117,1228,1410"
+                    }
+                }
+            ]
+        }
+    ]
+}

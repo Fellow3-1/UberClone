@@ -1,0 +1,2142 @@
+[
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_route_on_1_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_media_route_mono_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_on_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_mr_media_route_controller_material_dialog_b.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_mr_ic_audio_vol.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_full_open_on_phone.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_play_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_play_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/raw_gtm_analytics.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/b01371820e5e5744ed4fc965b4aeec32/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_mr_media_route_chooser_dialog.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_route_disabled_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_pause.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_pause.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_common_signin_btn_text_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_off_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_mr_media_route_list_item.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_cast_ic_notification_1.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-mdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_full_open_on_phone.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_setting_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_setting_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_media_route_connecting_mono_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cast_ic_notification_1.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-hdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_fade_out.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_search_url_text.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_settings_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_on_1_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_design_navigation_item.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_play_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_play_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_pause_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_pause_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_route_on_2_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_setting_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_setting_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_on_2_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_route_on_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_cast_ic_notification_1.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xxhdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_play_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_route_on_2_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_play_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_play_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_route_disabled_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_route_on_0_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_cast_ic_notification_1.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xhdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_powered_by_google_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-hdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_ic_googleplayservices.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_pause_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_pause_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_on_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_route_off_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_cast_ic_notification_2.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xhdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_on_0_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_cast_ic_notification_0.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xxhdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_pause_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_pause_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_settings_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_fab_in.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_route_on_0_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_on_0_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_common_signin_btn_text_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_cast_ic_notification_2.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-mdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_snackbar_out.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_play.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_play.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_route_on_1_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_full_open_on_phone.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_route_off_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mr_ic_audio_vol.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_pause_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_pause_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi_common_full_open_on_phone.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_on_2_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_pause.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_pause.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_cast_ic_notification_on.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-mdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_cast_ic_notification_0.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xhdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_setting_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_setting_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_route_disabled_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout-sw600dp_layout_snackbar.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout-sw600dp/layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_route_disabled_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_media_route_mono_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_cast_ic_notification_connecting.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_route_on_2_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_common_signin_btn_icon_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_on_2_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_disabled_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_fab_out.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_pause_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_pause_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cast_ic_notification_on.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-hdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_setting_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_setting_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_route_off_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_disabled_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_search_view.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_powered_by_google_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_mr_ic_audio_vol.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_on_0_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_route_on_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_template_lines.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cast_ic_notification_2.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-hdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_snackbar_background.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/drawable/snackbar_background.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_cast_ic_notification_on.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xhdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_setting_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_setting_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_on_0_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_off_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_on_1_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_powered_by_google_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-xhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_route_on_0_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_play_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_play_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_setting_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_setting_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_pause_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_pause_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_powered_by_google_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-mdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_cast_ic_notification_0.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-mdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_media_route_on_1_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_play_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_play_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_on_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_play_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_play_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_off_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_common_signin_btn_text_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_layout_snackbar.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cast_ic_notification_0.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-hdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_disabled_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_play_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_pause_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_play_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_play_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_powered_by_google_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-xhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_setting_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_setting_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_powered_by_google_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_play_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_play_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_on_1_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_full_open_on_phone.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_cast_ic_notification_2.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xxhdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_pause.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_pause.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_wallet_primary_text_holo_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/7a67a338817f73516ca2fa17d68f468a/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_route_on_2_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_pause_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_play.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_play.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_powered_by_google_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-mdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_route_on_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_pause.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_pause.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_mr_ic_audio_vol.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_snackbar_in.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_cast_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_cast_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/anim_abc_fade_in.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_common_signin_btn_text_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_route_on_0_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_cast_ic_notification_on.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/d49b7e33933c9437d1d153118292b647/res/drawable-xxhdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_on_1_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_route_on_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_on_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_layout_snackbar_include.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_powered_by_google_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/507137d53b7bf1f3f02b824b52a40fb2/res/drawable-hdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_layout_tab_icon.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_media_play.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_media_play.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_cast_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xhdpi-v4/ic_cast_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_fab_background.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/drawable/fab_background.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_route_on_1_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_media_route_off_mono_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_layout_tab_text.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/37b56105de85de4c3d68e84cb14e2849/res/layout/layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout-v17_mr_media_route_list_item.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/layout-v17/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_media_play.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_media_play.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_on_2_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_mr_ic_media_route_connecting_mono_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_setting_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-mdpi-v4/ic_setting_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_pause_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_pause_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_cast_off_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-hdpi-v4/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable_common_signin_btn_icon_light.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_pause_dark.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_pause_dark.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_cast_disabled_light.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/d1e992383d3df52ba3c4e559fe66ed94/res/drawable-xxhdpi-v4/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/f6950f92ee998884138ceb8f86c80fe9/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/moe/StudioProjects/Onagi/ParseStarterProject/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/moe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d21763967e584efbf75f36184e7001e/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    }
+]
